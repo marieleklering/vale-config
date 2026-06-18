@@ -1,9 +1,12 @@
 # Vale Config
 
 Documentation has rules. Not arbitrary ones, rules that make content clearer, more consistent, and easier to read. The problem is applying them manually across every doc, every repo, every release. You will always miss something.
+
 Vale is a linter for prose. The same way a code linter catches syntax errors before they ship, Vale catches writing issues before they reach your readers. It runs in your terminal or in GitHub Actions and flags problems based on rules you define.
+
 This repo is my centralised Vale configuration. Instead of copying style rules into every project separately, I maintain them here and pull them in wherever I need them. One update applies everywhere.
-I use it alongside AudienceFirst - Vale catches surface-level writing issues, AudienceFirst handles the deeper question of whether the content actually works for its audience. They do different things and they work well together.
+
+I use it alongside AudienceFirst. Vale catches surface-level writing issues. AudienceFirst handles the deeper question of whether the content actually works for its audience. They do different things and they work well together.
 
 ## What this enforces
 
