@@ -1,6 +1,6 @@
 # Vale Config
 
-Documentation has rules. Not arbitrary ones, rules that make content clearer, more consistent, and easier to read. The problem is applying them manually across every doc, every repo, every release. You will always miss something.
+Documentation has rules. Not arbitrary ones, but rules that make content clearer, more consistent, and easier to read. The problem is applying them manually across every doc, every repo, every release. You will always miss something.
 
 Vale is a linter for prose. The same way a code linter catches syntax errors before they ship, Vale catches writing issues before they reach your readers. It runs in your terminal or in GitHub Actions and flags problems based on rules you define.
 
