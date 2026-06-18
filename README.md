@@ -6,7 +6,7 @@ Vale is a linter for prose. The same way a code linter catches syntax errors bef
 
 This repo is my centralised Vale configuration. Instead of copying style rules into every project separately, I maintain them here and pull them in wherever I need them. One update applies everywhere.
 
-I use it alongside AudienceFirst. Vale catches surface-level writing issues. AudienceFirst handles the deeper question of whether the content actually works for its audience. They do different things and they work well together.
+I use it alongside [AudienceFirst](https://github.com/marieleklering/audience-first). Vale catches surface-level writing issues. AudienceFirst handles the deeper question of whether the content actually works for its audience. They do different things and they work well together.
 
 ## What this enforces
 
