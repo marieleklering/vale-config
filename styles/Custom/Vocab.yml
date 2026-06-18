@@ -1,0 +1,22 @@
+extends: existence
+message: "Avoid '%s' in documentation."
+level: warning
+ignorecase: true
+tokens:
+  - simply
+  - easily
+  - leverage
+  - utilize
+  - in order to
+  - due to the fact that
+  - at the end of the day
+  - basically
+  - clearly
+  - obviously
+  - just
+  - very
+  - really
+  - actually
+  - quite
+  - definitely
+  - absolutely
